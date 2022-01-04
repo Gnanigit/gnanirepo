@@ -1,3 +1,5 @@
 mass
 class
 world
+myself
+also
